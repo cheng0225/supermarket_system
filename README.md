@@ -1,1 +1,1 @@
-# supermarket_system
+简陋的超市管理系统
