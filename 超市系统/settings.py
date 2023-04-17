@@ -93,7 +93,7 @@ CORS_ALLOW_HEADERS = (
 )
 
 
-ROOT_URLCONF = 'supermarket.urls'
+ROOT_URLCONF = '超市系统.urls'
 
 TEMPLATES = [
     {
@@ -113,7 +113,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'supermarket.wsgi.application'
+WSGI_APPLICATION = '超市系统.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
