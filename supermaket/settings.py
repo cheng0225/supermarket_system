@@ -93,7 +93,7 @@ CORS_ALLOW_HEADERS = (
 )
 
 
-ROOT_URLCONF = '超市系统.urls'
+ROOT_URLCONF = 'supermaket.urls'
 
 TEMPLATES = [
     {
